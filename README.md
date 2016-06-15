@@ -27,3 +27,5 @@ If the default memory for JVM is too small, please increase the allocation by sp
 2. Too small entity limit
 The parser has encountered more than "64,000" entity expansions in this document; this is the limit imposed by the application
 Please specify another JVM argument -DentityExpansionLimit=2500000
+#more
+The example.xml is part of dblp dataset,you can use it to test the program.
