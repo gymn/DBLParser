@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE dblp SYSTEM "dblp.dtd">
+<dblp>
+<article mdate="2011-01-11" key="journals/acta/Saxena96">
+<author>Sanjeev Saxena</author>
+<title>Parallel Integer Sorting and Simulation Amongst CRCW Models.</title>
+<pages>607-619</pages>
+<year>1996</year>
+<volume>33</volume>
+<journal>Acta Inf.</journal>
+<number>7</number>
+<url>db/journals/acta/acta33.html#Saxena96</url>
+<ee>http://dx.doi.org/10.1007/BF03036466</ee>
+</article>
+<article mdate="2011-01-11" key="journals/acta/Simon83">
+<author>Hans-Ulrich Simon</author>
+<title>Pattern Matching in Trees and Nets.</title>
+<pages>227-248</pages>
+<year>1983</year>
+<volume>20</volume>
+<journal>Acta Inf.</journal>
+<url>db/journals/acta/acta20.html#Simon83</url>
+<ee>http://dx.doi.org/10.1007/BF01257084</ee>
+</article>
+<article mdate="2011-01-11" key="journals/acta/GoodmanS83">
+<author>Nathan Goodman</author>
+<author>Oded Shmueli</author>
+<title>NP-complete Problems Simplified on Tree Schemas.</title>
+<pages>171-178</pages>
+<year>1983</year>
+<volume>20</volume>
+<journal>Acta Inf.</journal>
+<url>db/journals/acta/acta20.html#GoodmanS83</url>
+<ee>http://dx.doi.org/10.1007/BF00289414</ee>
+</article>
+<article mdate="2011-01-11" key="journals/acta/Blum82">
+<author>Norbert Blum</author>
+<title>On the Power of Chain Rules in Context Free Grammars.</title>
+<pages>425-433</pages>
+<year>1982</year>
+<volume>17</volume>
+<journal>Acta Inf.</journal>
+<url>db/journals/acta/acta17.html#Blum82</url>
+<ee>http://dx.doi.org/10.1007/BF00264161</ee>
+</article>
+
+<article mdate="2011-02-16" key="journals/acta/Honkala11">
+<author>Juha Honkala</author>
+<title>A characterization of rational D0L power series.</title>
+<pages>19-24</pages>
+<year>2011</year>
+<volume>48</volume>
+<journal>Acta Inf.</journal>
+<number>1</number>
+<ee>http://dx.doi.org/10.1007/s00236-010-0128-1</ee>
+<url>db/journals/acta/acta48.html#Honkala11</url>
+</article>
+
+<phdthesis mdate="2016-05-04" key="phd/uk/Miguel2004">
+<author>Ian Miguel</author>
+<title>Dynamic flexible constraint satisfaction and its application to AI planning.</title>
+<year>2004</year>
+<school>Edinburgh, Univ.</school>
+<pages>1-318</pages>
+<isbn>1-85233-764-8</isbn>
+<ee>http://d-nb.info/969624166</ee>
+</phdthesis><phdthesis mdate="2016-05-04" key="phd/uk/Schmidt2003">
+<author>Albrecht Schmidt 0001</author>
+<title>Ubiquitous computing - computing in context.</title>
+<year>2003</year>
+<school>The University of Lancaster</school>
+<pages>1-294</pages>
+<isbn>3-930736-04-7</isbn>
+<ee>http://d-nb.info/969858205</ee>
+</phdthesis><phdthesis mdate="2015-07-02" key="phd/Diehl1996">
+<author>Stephan Diehl 0001</author>
+<title>Semantics-directed generation of compilers and abstract machines</title>
+<year>1996</year>
+<school>Universit&auml;t des Saarlandes</school>
+<url>http://scidok.sulb.uni-saarland.de/volltexte/2004/177/index.html</url>
+</phdthesis>
+
+
+<phdthesis mdate="2002-01-03" key="phd/Simon86">
+<author>Eric Simon</author>
+<title>Conception et Realisation d'un sous Systeme d'Intgerite dans un SGBD Relationnel</title>
+<year>1986</year>
+<school>Univerite de Paris VI</school>
+</phdthesis>
+
+<phdthesis mdate="2002-01-03" key="phd/Specht92">
+<author>G&uuml;nther Specht</author>
+<title>Source-to-Source Transformationen zur Erkl&auml;rung des Programmverhaltens bei deduktiven Datenbanken.</title>
+<year>1992</year>
+<school>Technische Universit&auml;t M&uuml;nchen</school>
+</phdthesis>
+
+<phdthesis mdate="2016-05-04" key="phd/cz/Necasky2009">
+<author>Martin Necask&yacute;</author>
+<title>Conceptual modeling for XML.</title>
+<year>2009</year>
+<school>Praha, Univ. Karlova</school>
+<pages>1-153</pages>
+<isbn>978-3-89838-499-5</isbn>
+<ee>http://d-nb.info/991311825</ee>
+</phdthesis><phdthesis mdate="2016-05-04" key="phd/it/Gulli2008">
+<author>Antonio Gull&igrave;</author>
+<title>Clustering and ranking for web information retrieval: methodologies for searching the web.</title>
+<year>2008</year>
+<school>University of Pisa</school>
+<pages>1-137</pages>
+<isbn>978-3-8364-5657-9</isbn>
+<ee>http://d-nb.info/987753223</ee>
+</phdthesis><phdthesis mdate="2016-05-04" key="phd/it/Popescu2008">
+<author>Razvan Andrei Popescu</author>
+<title>Aggregation and adaptation of web services: a semi-automated methodology for the aggregation and adaption of web services.</title>
+<year>2008</year>
+<school>University of Pisa</school>
+<pages>1-206</pages>
+<isbn>978-3-8364-6280-8</isbn>
+<ee>http://d-nb.info/991165179</ee>
+</phdthesis><phdthesis mdate="2007-04-26" key="phd/Tsangaris92">
+<author>Manolis M. Tsangaris</author>
+<title>Principles of Static Clustering for Object Oriented Databases</title>
+<year>1992</year>
+<school>Univ. of Wisconsin-Madison</school>
+</phdthesis>
+
+<phdthesis mdate="2005-11-30" key="phd/Heuer2002">
+<author>Andreas Heuer 0002</author>
+<title>Web-Pr&auml;senz-Management im Unternehmen</title>
+<year>2002</year>
+<school>Univ. Trier, FB 4, Informatik</school>
+<ee>http://ubt.opus.hbz-nrw.de/volltexte/2004/144/</ee>
+</phdthesis>
+
+<mastersthesis mdate="2002-01-03" key="phd/Schulte92">
+<author>Christian Schulte</author>
+<title>Entwurf und Implementierung eines &uuml;bersetzenden Systems f&uuml;r das intuitionistische logische Programmieren auf der Warren Abstract Machine.</title>
+<year>1991</year>
+<school>Universit&auml;t Karlsruhe, Institut f&uuml;r Logik, Komplexit&auml;t und Deduktionssysteme</school>
+</mastersthesis>
+
+<phdthesis mdate="2002-01-03" key="phd/Hellerstein95">
+<author>Joseph M. Hellerstein</author>
+<title>Optimization and Execution Techniques for Queries With Expensive Methods</title>
+<year>1995</year>
+<school>Univ. of Wisconsin-Madison</school>
+</phdthesis>
+
+</dblp>
+
+
