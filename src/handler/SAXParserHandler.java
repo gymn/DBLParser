@@ -18,7 +18,7 @@ public class SAXParserHandler extends DefaultHandler {
 	static PreparedStatement pstmt = null;
 	int docIndex = 0;
 	Document doc = null;
-	String value = null;
+	String value = "";
 	boolean isEnd = false;
 	public static Set<String> types = new HashSet<String>();
 	static {
@@ -88,12 +88,20 @@ public class SAXParserHandler extends DefaultHandler {
 		}else if (qName.equals("author") && isEnd ==false) {
 			if (doc.getAuthors().equals("")){
 				doc.setAuthors(value);
-			}else
-				doc.setAuthors(doc.getAuthors()+"|"+value);
+				value = "";
+			}else{
+				doc.setAuthors(doc.getAuthors()+"#"+value);
+				value = "";
+			}
 		}else if ( (qName.equals("title")||qName.equals("booktitle") ) && isEnd ==false) {
 			doc.setDoc_title(value);
+			value = "";
 		}else if (qName.equals("year") && isEnd ==false) {
 			doc.setDoc_year(Integer.parseInt(value));
+			value = "";
+		}
+		else {
+			value = "";
 		}
 	}
 	
@@ -101,7 +109,7 @@ public class SAXParserHandler extends DefaultHandler {
 	public void characters(char[] ch, int start, int length) throws SAXException {
 		// TODO Auto-generated method stub
 		super.characters(ch, start, length);
-		value = new String(ch, start, length);
+		value += new String(ch, start, length);
 	}
 	
 	//用来标识解析开始
